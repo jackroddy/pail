@@ -1,3 +1,6 @@
 # pail
 
-> **pipeline assembly & instrumentation library**
+> **<u>p</u>ipeline <u>a</u>ssembly & <u>i</u>nstrumentation <u>l</u>ibrary**
+
+## about
+`pail` is a rust library that helps you assemble and instrument (time & memory usage) simple pipelines consisting of shell commands.
