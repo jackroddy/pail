@@ -2,6 +2,10 @@
 name = "pail"
 version = "0.1.0"
 edition = "2024"
+authors = ["Jack Roddy <jack.w.roddy@gmail.com>"]
+repository = "https://github.com/jackroddy/pail"
+license = "MIT OR Apache-2.0"
+description = "pail is a library for building & instrumenting simple shell command pipelines."
 
 [dependencies]
 anyhow = "1.0.104"
